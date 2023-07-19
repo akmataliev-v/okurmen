@@ -1,1 +1,2 @@
-let aih = 15 console
+let aih = 15 ;
+console.log(ahi)
